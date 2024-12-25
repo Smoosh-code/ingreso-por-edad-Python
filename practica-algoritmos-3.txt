@@ -1,7 +1,7 @@
 --------------------------------------------
 
 La Problematica:
-El usuario quiere saber si pued eentrar a una discoteca según la edad del cliente
+El usuario quiere saber si puede entrar a una discoteca según la edad del cliente
 
 ---------------------------------------------
 
